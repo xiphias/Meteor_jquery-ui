@@ -1,0 +1,8 @@
+{
+  "name": "jquery-ui",
+  "description": "Smartpackage for the use of jquery-ui on top of meteor",
+  "homepage": "https://github.com/xiphias/Meteor_jquery-ui",
+  "author": "Adam Ritter",
+  "version": "0.1.0",
+  "git": "https://github.com/xiphias/Meteor_jquery-ui.git"
+}
